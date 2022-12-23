@@ -1,11 +1,3 @@
-/*
-    Stabocar - Rundenzähler und Zeitmesser mit Arduino pro mini,
-    Lichtschranken und OLED-Display
- 
-    FP 2020
-*/
-
-// https://github.com/greiman/SSD1306Ascii/blob/master/examples/HelloWorldWire/HelloWorldWire.ino
 
 #include <Wire.h>
 #include <SSD1306Ascii.h>
